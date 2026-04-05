@@ -1,10 +1,12 @@
 # Burp-PDF-Extractor
 
-Simple PDF viewer extension for BurpSuite
+Simple PDF viewer extension for Burp Suite
 
+## Installation
+Download the latest release (https://github.com/Marcus-Stoner/Burp-PDF-Extractor/releases/download/Latest/BurpFileExtractor.jar) then import it into Burp Suite
 ## Features
 
-PDF reader extension for BurpSuite, supporting the following features:
+PDF reader extension for Burp Suite, supporting the following features:
 * Stores all unique PDF files into an artifacts dashboard
   *  Bulk save files
   *  Indivudally open files
